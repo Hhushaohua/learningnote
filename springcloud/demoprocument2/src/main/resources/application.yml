@@ -1,0 +1,10 @@
+server:
+  port: 8002
+spring:
+  application:
+    name: pro
+  rabbitmq:
+    username: shaohua
+    password: shaohua
+    host: 127.0.0.1
+    port: 5672
